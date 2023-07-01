@@ -15,7 +15,7 @@ Me considero un defensor de la ejecución detallada y la experiencia adecuada de
 
 Ahh y radico en Guadalajara, México.
 
-Actualmente no se muestran proyectos destacados en este archivo README.md. Para ver mi portafolio completo y explorar mis proyectos, visita [mi sitio web de portafolio](enlace-al-portafolio).
+Actualmente no se muestran proyectos destacados en este archivo README.md. Para ver mi portafolio completo y explorar mis proyectos, visita [mi sitio web de portafolio](https://alanaaguirre.github.io/portfolio/).
 
 ## Habilidades
 - Diseño de interfaz de usuario (UI)
