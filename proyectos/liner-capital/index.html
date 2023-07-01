@@ -113,8 +113,9 @@
             <div class="SecHidden"></div>
             <footer class="footer mt-auto py-3 bg-nav">
                 <div class="container-fluid">
-                  <div class="d-flex justify-content-center">
-                    <p><span id="currentYear"></span></p>
+                  <div class="row d-flex justify-content-between align-items-center">
+                    <div class="col-lg-2 col-md-12 col-sm-12 my-2">
+                        <p><span id="currentYear"></span></p>
                             <script>
                               function setCopyrightDate(){
                                         year=new Date().getYear();
@@ -125,9 +126,25 @@
       
                                       setCopyrightDate();
                             </script>
-                  </div>
+                    </div>
+                    <div class="col-lg-4 col-md-12 col-sm-12 my-2">
+                        <ul class="nav btns d-flex align-items-center">
+                            <li class="nav-item">
+                                <h4 class="me-4">Estemos en contacto </h4>
+                            </li>
+                            <li class="nav-item">
+                                <a class="btn btn-outline-dark mx-1" href="https://www.linkedin.com/in/alanaguirre/" target="_blank"><i class="fa-brands fa-linkedin-in fa-1xl"></i></a>
+                                </li>
+                            <li class="nav-item">
+                                <a class="btn btn-outline-dark mx-1" href="https://www.behance.net/alanaguirre" target="_blank"><i class="fa-brands fa-behance fa-1xl"></i></a>
+                            </li>
+                            <li class="nav-item">
+                            <a class="btn btn-outline-dark mx-1" href="https://www.instagram.com/the_uidesigner/" target="_blank"><i class="fa-brands fa-instagram fa-1xl"></i></a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
-              </footer>
+            </footer>
         </main>
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
